@@ -1,4 +1,4 @@
-# Amazing REM Calculator workflow for Alfred
+# Amazing REM calculator workflow for Alfred
 
 ## Install
 
